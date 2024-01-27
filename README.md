@@ -1,6 +1,6 @@
 # Spotify Clone
 
-> Um clone simplificado do Spotify desenvolvido durante a Imersão Frontend da Alura. Permite a busca por artistas e álbuns, e possui um layout responsivo para diferentes dispositivos.
+> Um clone simplificado do Spotify desenvolvido durante a Imersão Frontend da Alura utilizando HTML, CSS, JavaScript e React. Permite a busca por artistas e álbuns, e possui um layout responsivo para diferentes dispositivos.
 
 ### Ajustes e melhorias
 
@@ -9,6 +9,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Adição da funcionalidade de busca
 - [x] Melhoria do design e layout
 - [ ] Adição de funcionalidades avançadas
+- [ ] Atualização da página em React
 
 ## 💻 Pré-requisitos
 
